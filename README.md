@@ -1,1 +1,2 @@
 # Light
+# This program is designed to display notifications on the screen, warning users about upcoming power outages. It can be customized to show alerts at specific times, ensuring users have enough time to prepare.
